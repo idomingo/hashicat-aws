@@ -9,9 +9,9 @@ cat << EOM > /var/www/html/index.html
   <div style="width:800px;margin: 0 auto">
 
   <!-- BEGIN -->
-  <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
-  <center><h2>Woof World!</h2></center>
-  Nothing to see here.
+  <center><img src="https://media.istockphoto.com/photos/racoon-in-the-trash-picture-id1047163322?k=20&m=1047163322&s=612x612&w=0&h=PF3zqyIXASn7lrBii3-R05X81pXUKaIoHJ2xJN_kNTI="></img></center>
+  <center><h2>Wof!</h2></center>
+  mapaches...
   <!-- END -->
 
   </div>
@@ -20,3 +20,4 @@ cat << EOM > /var/www/html/index.html
 EOM
 
 echo "Script complete."
+#   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
